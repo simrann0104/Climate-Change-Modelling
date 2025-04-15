@@ -31,7 +31,4 @@ This project leverages **Machine Learning** techniques to analyze and model clim
 ## Results
 The project effectively modeled climate change indicators, identified sentiment trends, and provided future projections aligned with scientific forecasts. 
 
-## Acknowledgements
-Special thanks to **NASA** for facilitating open discussions on climate change, inspiring this work, and providing a platform for public engagement.
-
 ---
